@@ -1,0 +1,36 @@
+[class^="timegroup__digit"] {
+  display: inline-block;
+  padding: 10px;
+  border: 2px double purple;
+}
+
+.timegroup__digit-wrapper {
+  border: none;
+  width: 100px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.timegroup {
+  width: 120px;
+  margin: 0 auto;
+  display: inline-block;
+}
+
+.timegroup__label {
+  text-align: center;
+  text-transform: uppercase;
+  width: 100%;
+}
+
+.hidden {
+  display: none;
+}
+
+.tonyastimer {
+font-size: 20px;
+font-family: helvtica;
+text-align: center;
+border: solid pink 4px;
+background-image: url(https://cdn.pixabay.com/photo/2015/09/14/18/57/banner-939948__340.jpg);
+}
