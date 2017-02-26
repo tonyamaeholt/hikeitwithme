@@ -35,7 +35,7 @@
 				<div class="wrap">
 					<?php get_template_part( 'template-parts/navigation/navigation', 'top' ); ?>
 				</div><!-- .wrap -->
-<?php include( get_stylesheet_directory() . '/tonyastimer.php'); ?>
+<?php include( get_stylesheet_directory() . '/tonyastimer/tonyastimer.php'); ?>
 			</div><!-- .navigation-top -->
 		<?php endif; ?>
 
